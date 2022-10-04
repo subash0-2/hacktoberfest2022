@@ -1,4 +1,5 @@
-HACKTOBERFEST
+<----------------------------------------------------------HACKTOBERFEST----------------------------------------------------------->
+An opensource repo for developers to help other developer by giving codes or notes from strach to advance
 <div align="center">
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/kishanrajput23/Hacktoberfest-2022)
